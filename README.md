@@ -1,0 +1,2 @@
+# NewAIPractice
+Practice Repsitory
